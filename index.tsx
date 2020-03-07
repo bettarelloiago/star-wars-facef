@@ -3,6 +3,7 @@ import 'react-native-gesture-handler';
 import * as Stores from './src/stores';
 
 import { AppRegistry, SafeAreaView } from 'react-native';
+import { dark as darkTheme, mapping} from '@eva-design/eva';
 
 import { Provider } from 'mobx-react';
 import React from 'react';
